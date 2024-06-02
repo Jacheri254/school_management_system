@@ -9,3 +9,4 @@ Grading and Assessment: The software facilitates the grading and assessment proc
 Reporting and Analytics: It offers reporting and analytics features to generate various reports, analyze data, and gain insights into student performance, attendance trends, financial metrics, and other key indicators.
 # for login use 
 Username:Jacheri
+Password:Jayden254
